@@ -17,7 +17,7 @@ export function IndependentReviewsSection() {
             id="independent-reviews-title"
             className="text-4xl md:text-6xl lg:text-7xl font-serif font-light text-white leading-tight tracking-tight"
           >
-            Independente<br />Reviews
+            Independent<br />Reviews
           </h2>
         </div>
       </div>
