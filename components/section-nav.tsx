@@ -13,7 +13,7 @@ const navItems = [
   { id: "taxation", label: "Taxation\nServices", icon: "/images/icons/icon-taxation.png" },
   { id: "company-secretarial", label: "Company\nSecretarial\nServices", icon: "/images/icons/icon-company.png" },
   { id: "board-secretarial", label: "Board\nSecretarial\nServices", icon: "/images/icons/icon-board.png" },
-  { id: "independent-reviews", label: "Independente\nReviews", icon: "/images/icons/icon-reviews.png" },
+  { id: "independent-reviews", label: "Independent\nReviews", icon: "/images/icons/icon-reviews.png" },
   { id: "about-founder", label: "About Our\nFounder", icon: "/images/icons/icon-founder.png" },
 ]
 
